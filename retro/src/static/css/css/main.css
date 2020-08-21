@@ -1,0 +1,20 @@
+.main {
+    margin-top: 5%;
+    text-align: center;
+}
+.main h1{
+    font-size: 3rem;
+}
+
+
+@media screen and (max-width: 1024px) {
+    /* TODO */
+}
+@media screen and (max-width: 768px) {
+    /* TODO */
+}
+@media screen and (max-width: 414px) {
+    .main h1{
+        font-size: 2rem;
+    }
+}

@@ -1,0 +1,31 @@
+.about{
+    margin-top: 5%;
+    text-align: center
+}
+.about h1{
+    font-size: 3rem;
+}
+
+
+@media screen and (max-width: 1024px) {
+    .about{
+        min-height: 100vh;
+    }
+    .about-content {
+        margin-top: 30%;
+    }
+}
+@media screen and (max-width: 768px) {
+    .about-content h1{
+        font-size: 3rem;
+    }
+}
+@media screen and (max-width: 414px) {
+    .about{
+        margin: 10%;
+        width: 80%;
+    }
+    .about h1{
+        font-size: 2rem;
+    }
+}
