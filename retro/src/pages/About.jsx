@@ -1,6 +1,6 @@
 import React from 'react'
 
-import '/Users/katayama/Desktop/work/retro/retro/src/static/css/css/about.css'
+import '../static/css/css/about.css'
 
 const About = () => {
     return (
