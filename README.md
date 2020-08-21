@@ -26,6 +26,7 @@ forkした後にそのプロジェクトをcloneする。
 
 ```
 c:¥user¥retro> cd retro
+c:¥user¥retro> npm install
 c:¥user¥retro> npm start
 ```
 
