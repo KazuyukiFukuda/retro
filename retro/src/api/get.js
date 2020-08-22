@@ -7,7 +7,6 @@ const toJson = async (res) => {
     }
 }
 
-
 export const getMainAPI = async () => {
     const resp = await fetch(`https://your-domain.com`, {
         method: "GET",
